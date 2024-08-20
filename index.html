@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Homework Tracker</h1>
+    <form id="homeworkForm">
+        <input type="text" id="classInput" placeholder="Class..." required>
+        <input type="number" id="periodInput" placeholder="Period..." required>
+        <input type="time" id="timeInput" required>
+        <button type="submit">Add Reminder</button>
+    </form>
+    <ul id="reminderList"></ul> <!-- Ensure this element exists -->
+</div>
+<script src="script.js"></script>
+</body>
+</html>
