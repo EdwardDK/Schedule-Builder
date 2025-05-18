@@ -6,8 +6,8 @@
 
 [![pages-build-deployment]([https://github.com/EdwardDK/speccalc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main](https://github.com/EdwardDK/Schedule-Builder/actions/workflows/static.yml/badge.svg?branch=main))](https://github.com/EdwardDK/Schedule-Builder/actions/workflows/static.yml)
 
-Like the name says, it's mace to _build your schedule_,
-powered with VanillaJS and CSS.
+Like the name says, it's made to _build your schedule_,
+powered with JS and CSS.
 
 - 💻 Stylized
 - 👍 Functionality
